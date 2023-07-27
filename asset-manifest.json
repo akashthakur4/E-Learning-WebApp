@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/udemyclone/static/css/main.2a428aeb.css",
+    "main.js": "/udemyclone/static/js/main.63edbb16.js",
+    "index.html": "/udemyclone/index.html",
+    "main.2a428aeb.css.map": "/udemyclone/static/css/main.2a428aeb.css.map",
+    "main.63edbb16.js.map": "/udemyclone/static/js/main.63edbb16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a428aeb.css",
+    "static/js/main.63edbb16.js"
+  ]
+}
